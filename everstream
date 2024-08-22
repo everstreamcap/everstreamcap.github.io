@@ -40,13 +40,13 @@
 </head>
 <body>
     <header>
-        <img src="images/logo.png" alt="Everstream Capital Limited Logo">
+        <img src="logo.png" alt="Everstream Capital Limited Logo">
         <p class="address">Hong Kong</p>
         <p>+852 5599 5805</p>
     </header>
 
     <div class="container">
-        <img src="images/image1_white.png" alt="Image 1">
+        <img src="image1_white.png" alt="Image 1">
         <!-- Any additional content can be added here -->
     </div>
 
